@@ -17,8 +17,9 @@ houblons:
 levures: 
 	7 g de fermentis US-05
 
-ajouts:
-	* 1 citron au moment de la 2me fermentation
+informations supplémentaires:
+	* 1 citron au moment de la 2me fermentation dans la cuve de fermentation
+	* une 3me fermentation dans les bouteilles avec 21g de sucre
 	
 - IBU: 42
 - taux d'alcool: 4.0

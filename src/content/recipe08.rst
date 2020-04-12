@@ -19,6 +19,7 @@ levures:
 
 ajouts:
 	* 1 citron à la fin de l'ébulition
-	
+	* 21g de sucre pour la 2me fermentation en bouteille
+
 - IBU: 42
 - taux d'alcool: 4.0
