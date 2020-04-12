@@ -10,3 +10,4 @@ Liens
 * https://www.saveur-biere.com/fr/518-houblons
 * https://www.biereetmoi.fr/
 * http://univers-biere.net/pratique.php
+* https://github.com/Atrakt/EBC2RGB/
