@@ -1,4 +1,19 @@
 #!/usr/bin/env python
+"""Calculate the EBC of a beer
+
+Usage:
+	python3 get_ebc.py test
+	python3 get_ebc.py malt1_or_ebc,weight1 malt2_or_ebc,weight2 ...
+
+Examples:
+	python3 get_ebc.py 6,90 300,10
+	-> should give: 35.4
+	python3 get_ebc.py 6,95 300,5
+	-> should give: 20.7
+	python3 get_ebc.py Vienna,90 "Special W",10
+	-> should give: 35.4
+"""
+
 
 import sys
 
