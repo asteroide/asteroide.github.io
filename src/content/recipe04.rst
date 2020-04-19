@@ -11,11 +11,8 @@ malts:
 	* Vienna: 300g
 
 houblons:
-	* Chalenger: 10g pendant 60 minutes
+	* Challenger: 10g pendant 60 minutes
 	* Citra: 5g pendant 10 minutes
 
 levures: 
 	7 g de fermentis US-05
-
-- IBU: 40
-- taux d'alcool: 4.0

@@ -11,11 +11,8 @@ malts:
 	* Special W: 100g
 
 houblons:
-	* Chalenger: 10g pendant 60 minutes
+	* Challenger: 10g pendant 60 minutes
 	* Sorachi Ace: 5g pendant 10 minutes
 
 levures: 
 	7 g de fermentis US-05
-
-- IBU: 42
-- taux d'alcool: 4.0

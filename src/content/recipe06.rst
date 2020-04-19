@@ -12,11 +12,8 @@ malts:
 	* Carawheat: 100g
 
 houblons:
-	* Chalenger: 10g pendant 60 minutes
-	* Chalenger: 5g pendant 10 minutes
+	* Challenger: 10g pendant 60 minutes
+	* Challenger: 5g pendant 10 minutes
 
 levures: 
 	7 g de fermentis US-05
-
-- IBU: 40
-- taux d'alcool: 4.0

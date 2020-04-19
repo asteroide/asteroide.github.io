@@ -21,9 +21,9 @@
 
     <div class="entry-content">
       {% include 'article_infos.html' %}
-        <bold>Malts :</bold><br/>
-        {{ article.malts }}
       {{ article.content }}
+                    {% include 'beer_infos.html' %}
+                    {% include 'beer_images.html' %}
     </div><!-- /.entry-content -->
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
     <div class="comments">

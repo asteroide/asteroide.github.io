@@ -15,5 +15,7 @@
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
     {{ page.content }}
+    {% include 'beer_infos.html' %}
+    {% include 'beer_images.html' %}
 </section>
 {% endblock %}

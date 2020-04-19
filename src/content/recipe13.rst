@@ -6,6 +6,8 @@ Vienna Citra
 :tags: vienna, citra, miel
 :category: Recettes
 :slug: vienna-citra2
+:image1: /img/IMG_5826.jpg
+:ebc: 36
   
 malts:
 	* Vienna: 900g
@@ -20,10 +22,3 @@ levures:
 
 informations supplémentaires:
 	* une 2me fermentation dans les bouteilles avec 21g de miel
-	
-- IBU: 42
-- taux d'alcool: 4.0
-
-.. image:: /img/IMG_5826.jpg
-   :width: 400
-   :alt: Vienna Citra

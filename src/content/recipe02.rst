@@ -16,5 +16,3 @@ houblons:
 levures: 
 	7 g de fermentis US-05
 
-- IBU: 103.5
-- taux d'alcool: 4.6

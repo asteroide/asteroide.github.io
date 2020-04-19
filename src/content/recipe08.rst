@@ -11,7 +11,7 @@ malts:
 	* Vienna: 200g
 
 houblons:
-	* Chalenger: 10g pendant 60 minutes
+	* Challenger: 10g pendant 60 minutes
 	* Sorachi Ace: 5g pendant 10 minutes
 
 levures: 
@@ -20,6 +20,3 @@ levures:
 ajouts:
 	* 1 citron à la fin de l'ébulition
 	* 21g de sucre pour la 2me fermentation en bouteille
-
-- IBU: 42
-- taux d'alcool: 4.0

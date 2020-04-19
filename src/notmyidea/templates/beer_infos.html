@@ -1,0 +1,39 @@
+
+ <table style="width: 40%; border: 1px solid black; background-color: #f1f1c1; padding: 15px">
+  {% if article.ibu_theo %}
+  <tr>
+    <th>IBU théorique</th>
+    <td>{{article.ibu_theo}}</td>
+  </tr>
+  {% endif %}
+  {% if article.ibu %}
+  <tr>
+    <th>IBU mesuré</th>
+    <td>{{article.ibu}}</td>
+  </tr>
+  {% endif %}
+  {% if article.alcohol_theo %}
+  <tr>
+    <th>Taux d'alcool théorique</th>
+    <td>{{article.alcohol_theo}}</td>
+  </tr>
+  {% endif %}
+  {% if article.alcohol %}
+  <tr>
+    <th>Taux d'alcool mesuré</th>
+    <td>{{article.alcohol}}</td>
+  </tr>
+  {% endif %}
+  {% if article.ebc_theo %}
+  <tr>
+    <th>EBC théorique</th>
+    <td>{{article.ebc_theo}}</td>
+  </tr>
+  {% endif %}
+  {% if article.ebc %}
+  <tr>
+    <th>EBC observé</th>
+    <td>{{article.ebc}}</td>
+  </tr>
+  {% endif %}
+</table> 

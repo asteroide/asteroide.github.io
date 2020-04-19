@@ -20,5 +20,3 @@ levures:
 informations supplémentaires:
 	* une 2me fermentation dans les bouteilles avec 21g de sucre
 	
-- IBU: 42
-- taux d'alcool: 4.0
